@@ -1,10 +1,10 @@
 {
-  "name": "AlbumNFT",
+  "name": "emojifacesdapp",
   "lockfileVersion": 2,
   "requires": true,
   "packages": {
     "": {
-      "name": "AlbumNFT",
+      "name": "emojifacesdapp",
       "dependencies": {
         "@alch/alchemy-web3": "^1.1.8",
         "@nomiclabs/hardhat-ethers": "^2.0.2",
